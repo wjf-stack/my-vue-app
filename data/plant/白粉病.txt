@@ -1,0 +1,40 @@
+{
+  "id": 5,
+  "name": "白粉病",
+  "scientificName": "Erysiphe cichoracearum",
+  "type": "真菌性病害",
+  "affectedSpecies": "黄瓜、葡萄、月季、草莓、小麦等多种植物",
+  "severity": 4,
+  "prevalence": 40,
+  "symptoms": [
+    "叶片、茎秆、花器等部位出现白色粉状物",
+    "后期逐渐变为灰色或褐色",
+    "叶片卷曲、发黄，生长受抑制",
+    "植株早衰，果实发育不良，品质下降"
+  ],
+  "causes": "病原菌在病残体或土壤中越冬，通过气流、雨水、昆虫等传播；通风透光不良、空气湿度大、昼夜温差大、偏施氮肥等环境和栽培条件，易诱发白粉病",
+  "solutions": [
+    {
+      "type": "化学防治",
+      "content": "发病初期，喷施粉锈宁、戊唑醇、嘧菌酯等杀菌剂，每隔7-10天喷1次，连续喷施2-3次"
+    },
+    {
+      "type": "栽培管理",
+      "content": "合理密植，改善通风透光条件；控制浇水量，避免湿度过大；增施磷钾肥，提高植株抗病能力；及时摘除病叶、病果，减少病原菌传播"
+    },
+    {
+      "type": "农业防治",
+      "content": "选择抗病品种；收获后及时清除病残体，深翻土壤，减少病原菌残留；采用地膜覆盖等栽培技术，降低田间湿度"
+    },
+    {
+      "type": "生物防治",
+      "content": "使用木霉菌、芽孢杆菌等有益微生物制剂，抑制病原菌生长；释放蚜小蜂等天敌昆虫，控制蚜虫等传病媒介"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://ts1.tc.mm.bing.net/th/id/R-C.42576cba2d2a3fc79c520a69c64c08a5?rik=wXShEyBeI%2fnLCw&riu=http%3a%2f%2fk.sinaimg.cn%2fn%2fsinacn20191017ac%2f110%2fw550h360%2f20191017%2f1671-ifzxhxm6674325.jpg%2fw700d1q75cms.jpg&ehk=Zb%2bv7hcrRKZkhArYDlvsohtT3rAy48gbgOip73%2bVtRw%3d&risl=&pid=ImgRaw&r=0",
+      "caption": "月季白粉病"
+    }
+  ]
+}

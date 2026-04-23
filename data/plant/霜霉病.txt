@@ -1,0 +1,27 @@
+{
+  "id": 2,
+  "name": "霜霉病",
+  "scientificName": "Plasmopara viticola",
+  "type": "真菌性病害",
+  "affectedSpecies": "葡萄、黄瓜、白菜等",
+  "severity": 4,
+  "prevalence": 50,
+  "symptoms": ["叶片背面白色霉层", "黄色角斑", "早期落叶"],
+  "causes": "低温高湿条件下孢子囊传播",
+  "solutions": [
+    {
+      "type": "化学防治",
+      "content": "发病前喷施代森锰锌，发病后使用烯酰吗啉"
+    },
+    {
+      "type": "栽培管理",
+      "content": "避免密植，采用滴灌降低湿度"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://tse4-mm.cn.bing.net/th/id/OIP-C.-DYBkZgzad8DCmAuTH1GFQHaFj?w=255&h=191&c=7&r=0&o=7&cb=thvnextc2&dpr=1.3&pid=1.7&rm=3",
+      "caption": "葡萄霜霉病"
+    }
+  ]
+}

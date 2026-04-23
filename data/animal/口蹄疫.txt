@@ -1,0 +1,32 @@
+{
+  "id": 103,
+  "name": "口蹄疫",
+  "scientificName": "Foot-and-mouth disease virus",
+  "type": "病毒性传染病",
+  "affectedSpecies": "牛、羊、猪等偶蹄动物",
+  "severity": 5,
+  "prevalence": 30,
+  "symptoms": [
+    "口腔黏膜、蹄部出现水疱",
+    "流涎呈丝状",
+    "跛行或跪地行走",
+    "幼畜急性心肌炎死亡"
+  ],
+  "causes": "接触传播或气溶胶传播，病毒在环境中存活时间长",
+  "solutions": [
+    {
+      "type": "疫苗接种",
+      "content": "使用O型、A型等多价灭活疫苗，每年免疫2次"
+    },
+    {
+      "type": "生物安全",
+      "content": "发病场实施扑杀和无害化处理，周边3公里范围建立免疫带"
+    }
+  ],
+  "images": [
+    {
+      "url": https://ts1.tc.mm.bing.net/th/id/R-C.97600da95aa91933d88cc6e2fad45f78?rik=nRSdOuBnJtPkyw&riu=http%3a%2f%2ffile.100vr.com%2fgroup31%2fM00%2f00%2f16%2fCgIKB1_YII6EULThAAAAAKomzqM807.jpg&ehk=u20y%2bspfb7zUXSkKPSbV8g98JabETpbjW8fcCegDCmM%3d&risl=&pid=ImgRaw&r=0,
+      "caption": "牛口蹄疫症状"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 105,
+  "name": "牛结核病",
+  "scientificName": "Mycobacterium bovis",
+  "type": "慢性传染病",
+  "affectedSpecies": "牛、人",
+  "severity": 4,
+  "prevalence": 10,
+  "symptoms": [
+    "渐进性消瘦",
+    "咳嗽呼吸困难",
+    "体表淋巴结肿大",
+    "产奶量下降"
+  ],
+  "causes": "呼吸道或消化道传播，与带菌牛密切接触",
+  "solutions": [
+    {
+      "type": "检疫净化",
+      "content": "结核菌素皮内试验检测，阳性牛扑杀"
+    },
+    {
+      "type": "卫生管理",
+      "content": "巴氏消毒牛奶，病牛粪便发酵处理"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://so1.360tres.com/t015f70a27ba779aa84.jpg",
+      "caption": "结核结节病理变化"
+    }
+  ]
+}

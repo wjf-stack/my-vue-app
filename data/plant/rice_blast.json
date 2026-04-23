@@ -1,0 +1,26 @@
+{
+  "name": "水稻纹枯病",
+  "type": "真菌性病害",
+  "scientificName": "Rhizoctonia solani",
+  "affectedSpecies": "水稻",
+  "severity": 3,
+  "prevalence": 65,
+  "symptoms": ["叶片出现水渍状斑点", "病斑扩大呈云纹状", "严重时整株枯死"],
+  "causes": "由立枯丝核菌引起，高温高湿条件下易发病",
+  "solutions": [
+    {
+      "type": "农业防治",
+      "content": "合理密植，保持田间通风透光；科学施肥，避免偏施氮肥"
+    },
+    {
+      "type": "化学防治",
+      "content": "发病初期可选用井冈霉素、多菌灵等药剂喷雾防治"
+    }
+  ],
+  "images": [
+    {
+      "url": "/images/rice-blast.jpg",
+      "caption": "水稻纹枯病症状"
+    }
+  ]
+}

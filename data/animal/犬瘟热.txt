@@ -1,0 +1,32 @@
+{
+  "id": 5,
+  "name": "犬瘟热",
+  "scientificName": "Canine distemper virus",
+  "type": "病毒性传染病",
+  "affectedSpecies": "犬科、鼬科动物",
+  "severity": 5,
+  "prevalence": 40,
+  "symptoms": [
+    "双向热（40℃以上）",
+    "眼鼻脓性分泌物",
+    "脚垫角质化",
+    "神经症状（抽搐、转圈）"
+  ],
+  "causes": "接触病犬分泌物传播，未免疫幼犬易感",
+  "solutions": [
+    {
+      "type": "免疫程序",
+      "content": "幼犬6-8周首免，间隔3周连续免疫3次"
+    },
+    {
+      "type": "治疗方案",
+      "content": "早期使用犬瘟热单抗+干扰素，控制继发感染"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://ts2.tc.mm.bing.net/th/id/OIP-C.QGJp60Ft8b09vtAs-_Bz5gHaFa?r=0&cb=thvnextc2&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "caption": "犬瘟热神经症状"
+    }
+  ]
+}

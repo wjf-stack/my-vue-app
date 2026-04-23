@@ -1,0 +1,33 @@
+{
+  "id": 102,
+  "name": "猪瘟",
+  "scientificName": "Classical Swine Fever",
+  "type": "传染性疾病",
+  "affectedSpecies": "猪",
+  "severity": 5,
+  "prevalence": 10,
+  "symptoms": [
+    "高热(41-42℃持续不退)",
+    "皮肤出现出血点或瘀斑",
+    "结膜充血、流脓性分泌物",
+    "腹泻与便秘交替出现",
+    "后期出现神经症状(抽搐、瘫痪)"
+  ],
+  "causes": "由猪瘟病毒引起，通过接触病猪、污染物或带毒媒介(如车辆、人员)传播",
+  "solutions": [
+    {
+      "type": "预防措施",
+      "content": "1. 制定科学免疫程序：仔猪21-28日龄首免，55-60日龄二免；种猪每年免疫2-3次<br>2. 强化生物安全：严格引种检疫，车辆/人员进出消毒，病死猪无害化处理<br>3. 饲养管理：保证饲料营养均衡，减少应激因素"
+    },
+    {
+      "type": "控制措施",
+      "content": "1. 发病猪立即隔离，全群紧急接种高免猪瘟疫苗<br>2. 对污染圈舍、用具用2%氢氧化钠彻底消毒<br>3. 接触猪群观察45天，确认无发病后逐步恢复生产"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://ts1.tc.mm.bing.net/th/id/R-C.a588777b2fcd8983a9d7cdd1c4c3c8f7?rik=gqvu0XdLbA%2f0Uw&riu=http%3a%2f%2f5b0988e595225.cdn.sohucs.com%2fimages%2f20181104%2f4406114542df475eaebc21c14acfe484.jpeg&ehk=9Prq85rd2uP9S%2bM5tA3wpqDNy2ndCSx%2fO1pMsQaj6vU%3d&risl=&pid=ImgRaw&r=0",
+      "caption": "猪瘟病猪皮肤出血症状"
+    }
+  ]
+}

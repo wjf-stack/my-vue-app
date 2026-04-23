@@ -1,0 +1,32 @@
+{
+  "id": 101,
+  "name": "禽流感",
+  "scientificName": "Avian Influenza",
+  "type": "传染性疾病",
+  "affectedSpecies": "鸡、鸭、鹅等家禽",
+  "severity": 5,
+  "prevalence": 15,
+  "symptoms": [
+    "突然死亡",
+    "头部肿胀",
+    "呼吸困难",
+    "产蛋下降"
+  ],
+  "causes": "由A型流感病毒引起，通过接触感染禽类或其分泌物传播",
+  "solutions": [
+    {
+      "type": "预防措施",
+      "content": "1. 严格生物安全措施<br>2. 接种疫苗(根据当地流行毒株)<br>3. 避免与野生鸟类接触"
+    },
+    {
+      "type": "控制措施",
+      "content": "发生高致病性禽流感时，应按照法规扑杀感染群，彻底消毒"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://ts1.tc.mm.bing.net/th/id/R-C.e893ad4e62f19512cae8902cc90fa267?rik=hCYkmeg0MqHs3Q&riu=http%3a%2f%2f5b0988e595225.cdn.sohucs.com%2fimages%2f20181220%2f787bdb3ae4524682aa1881a2c78ba002.jpeg&ehk=m63cdsV9eJOg2b9WqJJC0%2b9EBtEzCp60teboiPCtkxY%3d&risl=&pid=ImgRaw&r=0",
+      "caption": "禽流感感染家禽"
+    }
+  ]
+}

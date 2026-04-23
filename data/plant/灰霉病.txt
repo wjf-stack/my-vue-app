@@ -1,0 +1,36 @@
+{
+  "id": 6,
+  "name": "灰霉病",
+  "scientificName": "Botrytis cinerea",
+  "type": "真菌性病害",
+  "affectedSpecies": "番茄、草莓、葡萄、黄瓜、月季等",
+  "severity": 4,
+  "prevalence": 35,
+  "symptoms": [
+    "病部产生灰褐色霉层",
+    "果实出现水渍状软腐",
+    "叶片出现V形病斑",
+    "花器褐变腐烂"
+  ],
+  "causes": "低温高湿（20-25℃，RH>90%）易发，病原菌通过气流传播，伤口侵入",
+  "solutions": [
+    {
+      "type": "化学防治",
+      "content": "喷施腐霉利、异菌脲或啶酰菌胺，重点喷施花果部位"
+    },
+    {
+      "type": "环境调控",
+      "content": "大棚种植时加强通风，控制湿度在80%以下；夜间适当加温"
+    },
+    {
+      "type": "农业防治",
+      "content": "及时摘除病果病叶；避免密植；采用滴灌减少叶面湿度"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://pic1.zhimg.com/v2-ef1274a442cd96b78b9ea64979d5b08c_r.jpg",
+      "caption": "草莓灰霉病症状"
+    }
+  ]
+}

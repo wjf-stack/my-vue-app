@@ -1,0 +1,32 @@
+{
+  "id": 6,
+  "name": "狂犬病",
+  "scientificName": "Rabies virus",
+  "type": "人畜共患病",
+  "affectedSpecies": "犬、猫、人、野生动物",
+  "severity": 5,
+  "prevalence": 5,
+  "symptoms": [
+    "行为异常（温顺变狂暴）",
+    "流涎吞咽困难",
+    "恐水恐风",
+    "麻痹死亡"
+  ],
+  "causes": "被患病动物咬伤传播，病毒攻击中枢神经系统",
+  "solutions": [
+    {
+      "type": "强制免疫",
+      "content": "城镇犬只100%免疫，农村犬只免疫率≥75%"
+    },
+    {
+      "type": "暴露处置",
+      "content": "立即用肥皂水冲洗伤口15分钟，接种疫苗+免疫球蛋白"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://ts1.tc.mm.bing.net/th/id/R-C.a560a659ba4e09f27265686986721668?rik=fA51x2C8fpnfqA&riu=http%3a%2f%2fn.sinaimg.cn%2fsinakd10110%2f450%2fw750h500%2f20200720%2fd818-iwpcxks5044897.jpg&ehk=TTI9U3ob3IV2ReJ1gohpbwMeqEAOKZf6QVLy7iwivh4%3d&risl=&pid=ImgRaw&r=0",
+      "caption": "狂犬病病毒电镜照片"
+    }
+  ]
+}

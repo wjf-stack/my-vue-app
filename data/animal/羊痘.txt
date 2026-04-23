@@ -1,0 +1,32 @@
+{
+  "id": 106,
+  "name": "羊痘",
+  "scientificName": "Capripoxvirus",
+  "type": "病毒性传染病",
+  "affectedSpecies": "绵羊、山羊",
+  "severity": 3,
+  "prevalence": 20,
+  "symptoms": [
+    "皮肤出现红斑→丘疹→水疱→脓疱→结痂",
+    "眼鼻分泌物增多",
+    "孕羊流产",
+    "羔羊死亡率高"
+  ],
+  "causes": "接触传播，蚊虫叮咬传播，冬春季节高发",
+  "solutions": [
+    {
+      "type": "紧急免疫",
+      "content": "发病群用羊痘活疫苗尾根皮内注射"
+    },
+    {
+      "type": "卫生处理",
+      "content": "痂皮焚烧处理，环境用2%火碱消毒"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://ts2.tc.mm.bing.net/th/id/OIP-C.hXyVMkxmpbMhscMGh4aEcgHaFU?r=0&cb=thvnextc2&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "caption": "绵羊痘皮肤病变"
+    }
+  ]
+}

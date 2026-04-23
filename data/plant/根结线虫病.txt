@@ -1,0 +1,36 @@
+{
+  "id": 9,
+  "name": "根结线虫病",
+  "scientificName": "Meloidogyne spp.",
+  "type": "线虫病害",
+  "affectedSpecies": "番茄、黄瓜、西瓜、胡萝卜等",
+  "severity": 4,
+  "prevalence": 20,
+  "symptoms": [
+    "根部形成大小不等的瘤状物",
+    "植株生长迟缓",
+    "叶片黄化萎蔫",
+    "严重时整株枯死"
+  ],
+  "causes": "土壤中线虫侵染根部，25-30℃砂质土发病重，连作地虫口密度大",
+  "solutions": [
+    {
+      "type": "土壤处理",
+      "content": "定植前用阿维菌素颗粒剂或噻唑膦颗粒剂沟施"
+    },
+    {
+      "type": "生物防治",
+      "content": "施用淡紫拟青霉或厚孢轮枝菌等生防菌剂"
+    },
+    {
+      "type": "栽培措施",
+      "content": "与葱蒜类轮作；夏季高温闷棚；选用抗性砧木嫁接"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://ts4.tc.mm.bing.net/th/id/OIP-C.oshChAuI9NxUVjhhRU_4PQHaFM?r=0&cb=thvnextc2&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "caption": "番茄根结线虫病"
+    }
+  ]
+}

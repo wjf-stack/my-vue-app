@@ -1,0 +1,32 @@
+{
+  "id": 8,
+  "name": "马传染性贫血",
+  "scientificName": "Equine infectious anemia virus",
+  "type": "病毒性传染病",
+  "affectedSpecies": "马属动物",
+  "severity": 3,
+  "prevalence": 8,
+  "symptoms": [
+    "稽留热或间歇热",
+    "贫血黄疸",
+    "皮下水肿",
+    "进行性消瘦"
+  ],
+  "causes": "吸血昆虫（蚊、虻）传播，也可经胎盘垂直传播",
+  "solutions": [
+    {
+      "type": "检疫净化",
+      "content": "琼扩试验检测，阳性马扑杀处理"
+    },
+    {
+      "type": "预防措施",
+      "content": "消灭蚊虫，使用一次性注射器"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://ts3.tc.mm.bing.net/th/id/OIP-C.yHxrHrXJ9bErILaUsx6GzQHaFj?r=0&cb=thvnextc2&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "caption": "马传贫病马症状"
+    }
+  ]
+}

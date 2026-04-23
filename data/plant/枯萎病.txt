@@ -1,0 +1,31 @@
+{
+  "id": 1,
+  "name": "枯萎病",
+  "scientificName": "Fusarium oxysporum",
+  "type": "真菌性病害",
+  "affectedSpecies": "西瓜、黄瓜、番茄、香蕉等",
+  "severity": 5,
+  "prevalence": 45,
+  "symptoms": ["植株萎蔫", "叶片发黄下垂", "茎基部维管束变褐", "全株枯死"],
+  "causes": "土壤中真菌存活传播，高温高湿环境易发病，连作、伤口感染加重病情",
+  "solutions": [
+    {
+      "type": "化学防治",
+      "content": "播种前用多菌灵拌种，发病初期喷施恶霉灵或甲基托布津"
+    },
+    {
+      "type": "栽培管理",
+      "content": "实行轮作倒茬，避免连作；合理灌溉，防止土壤过湿；及时清除病株并销毁，减少菌源"
+    },
+    {
+      "type": "农业防治",
+      "content": "选用抗病品种，播种前对种子和土壤进行消毒处理"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://imgs.zsbeike.com/imgs/L/L09037/9.0ec64f.jpg",
+      "caption": "西瓜枯萎病"
+    }
+  ]
+}

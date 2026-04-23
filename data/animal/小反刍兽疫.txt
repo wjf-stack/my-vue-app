@@ -1,0 +1,32 @@
+{
+  "id": 7,
+  "name": "小反刍兽疫",
+  "scientificName": "Peste des petits ruminants virus",
+  "type": "病毒性传染病",
+  "affectedSpecies": "山羊、绵羊",
+  "severity": 4,
+  "prevalence": 15,
+  "symptoms": [
+    "高热（41℃以上）",
+    "口腔糜烂溃疡",
+    "严重腹泻脱水",
+    "肺炎症状"
+  ],
+  "causes": "接触传播，雨季和寒冷季节高发",
+  "solutions": [
+    {
+      "type": "疫苗免疫",
+      "content": "使用Nigeria 75/1株弱毒疫苗，免疫期3年"
+    },
+    {
+      "type": "疫情处置",
+      "content": "发病群扑杀，受威胁区紧急免疫建立隔离带"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.jsahvc.edu.cn/_upload/article/images/8c/3a/e9904d154d9aa29cc22065303506/dfdaad88-a5ec-4a24-ae11-9dfe6d5de828.jpg",
+      "caption": "小反刍兽疫口腔病变"
+    }
+  ]
+}

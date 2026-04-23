@@ -1,0 +1,31 @@
+{
+  "id": 4,
+  "name": "锈病",
+  "scientificName": "Puccinia graminis",
+  "type": "真菌性病害",
+  "affectedSpecies": "小麦、玉米、大豆、向日葵等",
+  "severity": 4,
+  "prevalence": 55,
+  "symptoms": ["叶片/茎秆出现黄褐色锈状孢子堆", "植株光合作用下降", "籽粒灌浆不足", "严重时整株枯死"],
+  "causes": "低温高湿环境利于孢子萌发，品种抗性差、连作地块发病较重",
+  "solutions": [
+    {
+      "type": "化学防治",
+      "content": "发病初期使用三唑酮或丙环唑喷雾，重病区需多次防治"
+    },
+    {
+      "type": "农业防治",
+      "content": "种植抗病品种，避免与禾本科作物连作；合理施肥，增强植株抗性"
+    },
+    {
+      "type": "物理防治",
+      "content": "秋收后及时清理病残体，深翻土壤减少越冬菌源"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://ts1.tc.mm.bing.net/th/id/R-C.bacfe4aba9469479e37b977502d0f540?rik=3K2gPfUDHKru2A&riu=http%3a%2f%2fbaidu.zzokq.com%2fuploads%2fallimg%2f220328%2f1-22032Q35535443.jpg&ehk=HF3jJ%2fj13yno1OED3xqbfeoRbUz3hR37hKCb4UNFUyY%3d&risl=&pid=ImgRaw&r=0",
+      "caption": "小麦条锈病"
+    }
+  ]
+}

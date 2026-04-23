@@ -1,0 +1,36 @@
+{
+  "id": 3,
+  "name": "炭疽病",
+  "scientificName": "Colletotrichum spp.",
+  "type": "真菌性病害",
+  "affectedSpecies": "柑橘、草莓、辣椒、豆类等",
+  "severity": 4,
+  "prevalence": 45,
+  "symptoms": [
+    "叶片出现圆形褐色病斑",
+    "果实凹陷病斑",
+    "枝条溃疡",
+    "落叶落果"
+  ],
+  "causes": "高温高湿条件下易发，伤口侵入，病原菌在病残体上越冬",
+  "solutions": [
+    {
+      "type": "化学防治",
+      "content": "发病初期喷施咪鲜胺、苯醚甲环唑等杀菌剂，重点保护新梢和幼果"
+    },
+    {
+      "type": "农业防治",
+      "content": "1. 冬季清园，清除病枝病叶<br>2. 合理修剪，改善通风透光<br>3. 避免果实机械损伤"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://ts1.tc.mm.bing.net/th/id/R-C.518e9fc8e88559b1c0cd657412e3e0dd?rik=GqGosxZkbfIrbQ&riu=http%3a%2f%2f25866735.s21i.faiusr.com%2f2%2fABUIABACGAAgmcTBhQYo0M2QuAEw6Ac4xAU.jpg&ehk=SkvfTRn1cSKCFHRAxaKhu6bhgEFZocsGMHn%2bTxHrlDY%3d&risl=&pid=ImgRaw&r=0",
+      "caption": "草莓炭疽病症状"
+    },
+    {
+      "url": "https://ts1.tc.mm.bing.net/th/id/R-C.518e9fc8e88559b1c0cd657412e3e0dd?rik=GqGosxZkbfIrbQ&riu=http%3a%2f%2f25866735.s21i.faiusr.com%2f2%2fABUIABACGAAgmcTBhQYo0M2QuAEw6Ac4xAU.jpg&ehk=SkvfTRn1cSKCFHRAxaKhu6bhgEFZocsGMHn%2bTxHrlDY%3d&risl=&pid=ImgRaw&r=0",
+      "caption": "叶片炭疽病症状"
+    }
+  ]
+}

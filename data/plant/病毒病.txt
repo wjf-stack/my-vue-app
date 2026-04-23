@@ -1,0 +1,36 @@
+{
+  "id": 8,
+  "name": "病毒病",
+  "scientificName": "Tobacco mosaic virus",
+  "type": "病毒性病害",
+  "affectedSpecies": "烟草、番茄、辣椒、黄瓜等",
+  "severity": 5,
+  "prevalence": 30,
+  "symptoms": [
+    "叶片花叶或斑驳",
+    "植株矮化畸形",
+    "果实出现坏死条纹",
+    "新叶卷曲皱缩"
+  ],
+  "causes": "通过蚜虫、粉虱等刺吸式口器昆虫传播，也可通过机械摩擦传染",
+  "solutions": [
+    {
+      "type": "虫媒防控",
+      "content": "悬挂黄色粘虫板；喷施吡虫啉或噻虫嗪防治传毒昆虫"
+    },
+    {
+      "type": "农业防治",
+      "content": "选用抗病品种；发现病株立即拔除；操作前消毒工具"
+    },
+    {
+      "type": "生物防治",
+      "content": "喷施宁南霉素或香菇多糖等抗病毒制剂"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://bkimg.cdn.bcebos.com/pic/b21c8701a18b87d63c34735a0a0828381f30fd05?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",
+      "caption": "番茄花叶病毒病"
+    }
+  ]
+}
